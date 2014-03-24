@@ -1,0 +1,87 @@
+html{
+background-image:url('img/0- background.png');
+background-repeat:no-repeat;
+background-position:50%;
+background-size:1500px 1500px;
+}
+#logo{
+margin-top:30px;
+margin-left:483px;
+
+}
+
+#newclient{
+margin-top:15px;
+margin-left:650px;
+width:99px;
+height:37px;
+background-image:url('img/Button1.png');
+background-repeat:no-repeat;
+background-size:99px 37px;
+color:white;
+font-size:16;
+}
+
+#changepwd{
+margin-left:15px;
+width:135px;
+height:37px;
+background-image:url('img/0- button2.png');
+background-repeat:no-repeat;
+background-size:135px 37px;
+color:#FF8000;
+font-size:14;
+
+}
+#logout{
+margin-left:15px;
+width:99px;
+height:37px;
+background-image:url('img/Button2.png');
+background-repeat:no-repeat;
+background-size:99px 37px;
+color:white;
+font-size:16;
+}
+
+#delete,#p_delete{
+width:99px;
+height:37px;
+background-image:url('img/Button2.png');
+background-repeat:no-repeat;
+background-size:99px 37px;
+color:white;
+font-size:14;
+}
+#welcome,#createclient{
+margin-left:300px;
+margin-top:10px;
+}
+#create,#upload,#add{
+width:99px;
+height:37px;
+background-image:url('img/Button1.png');
+background-repeat:no-repeat;
+background-size:99px 37px;
+color:white;
+font-size:16;
+}
+
+#provider_form{
+margin-left:240px;
+width:820px;
+}
+
+#maintable{
+margin-left:240px;
+width:820px;
+}
+table, td, th
+{
+border:1px solid #1C1C1C;
+}
+th
+{
+background-color:#424242;
+color:white;
+}

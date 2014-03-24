@@ -1,0 +1,1 @@
+<?phpfunction config(){   	$con=mysql_connect('localhost','username','');	//removed Username & Password for security.		 	if (!$con){		die('Could not connect: ' . mysql_error());	}		$db_selected=mysql_select_db('dbname',$con); //removed DBname for security.		return $db_selected;}?>
